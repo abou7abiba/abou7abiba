@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning computer vision
 - 💬 Ask me about Systems Architecture, Business Automation, Natural Language Processing, and Computer Vision
 - 😄 Pronouns: He / His
-- 📫 How to reatch me
+- 📫 How to reatch me [✉️ email](mailto:abou7abiba@gmail.com)
 
-### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=abou7abiba&count_private=true&show_icons=true&theme=solarized-light" alt="github stats" width="45%" align="right"/>
+### :octocat: Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=abou7abiba&count_private=true&show_icons=true&theme=solarized-light" alt="github stats" width="45%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abou7abiba&theme=solarized-light" width="45%" align="left" >
-
+### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abou7abiba&theme=solarized-light" width="45%" />
 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abou7abiba&layout=compact)
